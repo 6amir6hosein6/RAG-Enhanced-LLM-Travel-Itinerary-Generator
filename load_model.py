@@ -2,7 +2,7 @@ from transformers import pipeline
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 
-
+   
 def load_llm_model():
     model_name = "HuggingFaceH4/zephyr-7b-beta"
 
