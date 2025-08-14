@@ -14,6 +14,8 @@ Question: {}
 <|assistant|>
 """
 
+
+
 user_input = input("User: ")
 
 vectorized_input = embedding_model.embed_query(user_input)
