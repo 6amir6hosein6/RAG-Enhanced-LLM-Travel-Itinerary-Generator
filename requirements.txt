@@ -1,0 +1,12 @@
+datasets
+transformers
+tqdm
+numpy
+pandas
+langchain
+langchain_community
+sentence-transformers
+pinecone
+bitsandbytes
+accelerate
+
